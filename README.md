@@ -1,1 +1,3 @@
-# Qr_code_generator
+# Qr coder
+# EpPlus
+# System.drawing.common
